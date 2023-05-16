@@ -16,3 +16,9 @@ cognome = prompt('Qual è il tuo cognome?')
 
 // CONSOL LOG COGNOME UTENTE
 console.log(cognome)
+
+// INPUT COLORE PREFERITO UTENTE
+colore_preferito = prompt('Qual è il tuo colore preferito?')
+
+// CONSOL LOG COLORE PREFERITO UTENTE
+console.log(colore_preferito)

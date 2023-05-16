@@ -25,3 +25,6 @@ console.log(colore_preferito);
 
 // PASSWORD NUMBER
 password_number = 21;
+
+// CONSOL LOG PASSWORD NUMBER
+console.log(password_number);

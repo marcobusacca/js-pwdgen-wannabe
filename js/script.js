@@ -28,3 +28,10 @@ password_number = 21;
 
 // CONSOL LOG PASSWORD NUMBER
 console.log(password_number);
+
+// PASSWORD GENERATOR
+password = nome + cognome + colore_preferito + password_number
+
+// CONSOL LOG PASSWORD GENERATOR
+console.log(password);
+

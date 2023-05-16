@@ -10,3 +10,9 @@ nome = prompt('Qual è il tuo nome?')
 
 // CONSOL LOG NOME UTENTE
 console.log(nome)
+
+// INPUT COGNOME UTENTE
+cognome = prompt('Qual è il tuo cognome?')
+
+// CONSOL LOG COGNOME UTENTE
+console.log(cognome)

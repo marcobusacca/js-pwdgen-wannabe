@@ -30,8 +30,16 @@ password_number = 21;
 console.log(password_number);
 
 // PASSWORD GENERATOR
-password = nome + cognome + colore_preferito + password_number
+password = nome + cognome + colore_preferito + password_number;
 
 // CONSOL LOG PASSWORD GENERATOR
 console.log(password);
+
+// PASSWORD OUTPUT ALERT PER L'UTENTE
+alert(`Ottimo! Abbiamo generato una password per te: ${password}`);
+
+// PASSWORD OUTPUT PER L'UTENTE NELL'HTML
+document.getElementById('password').innerHTML = `Ottimo! Abbiamo generato una password per te: ${password}`;
+
+
 
